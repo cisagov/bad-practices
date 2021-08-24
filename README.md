@@ -1,23 +1,45 @@
-# bad-practices #
+# Bad Practices ⚠️ #
 
 [![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
 
-This is a generic skeleton project that can be used to quickly get a
-new [cisagov](https://github.com/cisagov) GitHub project started.
-This skeleton project contains [licensing information](LICENSE), as
-well as [pre-commit hooks](https://pre-commit.com) and
-[GitHub Actions](https://github.com/features/actions) configurations
-appropriate for the major languages that we use.
+As recent incidents have demonstrated, cyber attacks against critical
+infrastructure can have significant impacts on the critical functions of
+government and the private sector. All organizations, and particularly those
+supporting designated critical infrastructure or [national critical functions
+(NCF)](https://www.cisa.gov/national-critical-functions) should implement an
+effective cybersecurity program to protect against cyber threats and manage
+cyber risk in a manner commensurate with the criticality of those NCFs to
+national security, national economic security, and/or national public health and
+safety.
 
-In many cases you will instead want to use one of the more specific
-skeleton projects derived from this one.
+CISA is developing a catalog of bad practices that are exceptionally risky,
+especially in organizations supporting critical infrastructure or NCFs. The
+presence of these bad practices in organizations that support critical
+infrastructure or NCFs is exceptionally dangerous and increases risk to our
+critical infrastructure, on which we rely for national security, economic
+stability, and life, health, and safety of the public. Entries in the catalog
+will be listed here as they are added.
 
-## New Repositories from a Skeleton ##
+1. Use of unsupported (or end-of-life) software in service of critical
+   infrastructure and national critical functions is dangerous and significantly
+   elevates risk to national security, national economic security, and national
+   public health and safety. This dangerous practice is especially egregious in
+   internet-accessible technologies.
 
-Please see our [Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
-for step-by-step instructions on how to start a new repository from
-a skeleton. This will save you time and effort when configuring a
-new repository!
+1. Use of known/fixed/default passwords and credentials in service of critical
+   infrastructure and national critical functions is dangerous and significantly
+   elevates risk to national security, national economic security, and national
+   public health and safety. This dangerous practice is especially egregious in
+   internet-accessible technologies.
+
+While these practices are dangerous for critical infrastructure and NCFs, CISA
+encourages all organizations to engage in the necessary actions and critical
+conversations to address bad practices.
+
+*Note: This list is focused and does not include every possible inadvisable
+cybersecurity practice. The lack of inclusion of any particular cybersecurity
+practice does not indicate that CISA endorses such a practice or deems such a
+practice to present acceptable levels of risk.*
 
 ## Contributing ##
 
