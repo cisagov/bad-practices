@@ -43,8 +43,10 @@ practice to present acceptable levels of risk.*
 
 ## Contributing ##
 
-We welcome contributions!  Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for
-details.
+Join the [bad practices
+discussion](https://github.com/cisagov/bad-practices/discussions).  We welcome
+feedback about our current catalog of bad practices and want to hear your
+suggestions for additions.
 
 ## License ##
 
