@@ -45,7 +45,7 @@ practice to present acceptable levels of risk.*
 
 Join the [bad practices
 discussion](https://github.com/cisagov/bad-practices/discussions).  We welcome
-feedback about our current catalog of bad practices, and want to hear your
+feedback about our current catalog of bad practices and want to hear your
 suggestions for additions.
 
 ## License ##
