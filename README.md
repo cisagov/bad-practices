@@ -1,5 +1,7 @@
 # 👋 Welcome to CISA's Bad Practices #
 
+[![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
+
 <div align="center">
 <img width="460" src="assets/banner.png">
 </div>
@@ -59,8 +61,6 @@ practice does not indicate that CISA endorses such a practice or deems such a
 practice to present acceptable levels of risk.*
 
 ## Contributing ##
-
-[![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
 
 Join the [bad practices
 discussion](https://github.com/cisagov/bad-practices/discussions).  We welcome
