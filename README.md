@@ -1,10 +1,8 @@
-# Bad Practices #
+# 👋 Welcome to CISA's Bad Practices #
 
 <div align="center">
 <img width="460" src="assets/banner.png">
 </div>
-
-## 👋 Welcome to CISA's Bad Practices ##
 
 We’re using [GitHub
 discussions](https://github.com/cisagov/bad-practices/discussions) as a place to
