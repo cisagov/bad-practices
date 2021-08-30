@@ -1,4 +1,4 @@
-# 👋 Welcome to CISA's Bad Practices #
+# 👋 Welcome to CISA's Bad Practices Catalog #
 
 [![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
 
@@ -12,10 +12,10 @@ connect and engage in a critical conversations with other members in the
 community. We hope that you will:
 
 - Ask questions if something doesn't make sense.
-- Share  your thoughts on existing, and ideas for future, Bad Practice entries.
+- Share your thoughts on existing, and ideas for future, bad practice entries.
 - Engage with us and other community members on ideas and actions to eradicate
-  Bad Practices.
-- Welcome others and maintain an open-mind.
+  bad practices.
+- Welcome others and maintain an open mind.
 
 ---
 
@@ -43,13 +43,20 @@ will be listed here as they are added.
    infrastructure and national critical functions is dangerous and significantly
    elevates risk to national security, national economic security, and national
    public health and safety. This dangerous practice is especially egregious in
-   internet-accessible technologies.
+   technologies accessible from the internet.
 
-1. Use of known/fixed/default passwords and credentials in service of critical
-   infrastructure and national critical functions is dangerous and significantly
+1. Use of known/fixed/default passwords and credentials in service of Critical
+   Infrastructure and national critical functions is dangerous and significantly
    elevates risk to national security, national economic security, and national
    public health and safety. This dangerous practice is especially egregious in
-   internet-accessible technologies.
+   technologies accessible from the internet.
+
+1. The use of single-factor authentication for remote or administrative access
+   to systems supporting the operation of critical infrastructure and National
+   Critical Functions (NCF) is dangerous and significantly elevates risk to
+   national security, national economic security, and national public health and
+   safety. This dangerous practice is especially egregious in technologies
+   accessible from the internet.
 
 While these practices are dangerous for critical infrastructure and NCFs, CISA
 encourages all organizations to engage in the necessary actions and critical
