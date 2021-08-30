@@ -52,7 +52,7 @@ will be listed here as they are added.
    technologies accessible from the internet.
 
 1. The use of single-factor authentication for remote or administrative access
-   to systems supporting the operation of critical infrastructure and national
+   to systems supporting the operation of Critical Infrastructure and national
    critical functions (NCF) is dangerous and significantly elevates risk to
    national security, national economic security, and national public health and
    safety. This dangerous practice is especially egregious in technologies
