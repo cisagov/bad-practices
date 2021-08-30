@@ -1,6 +1,25 @@
-# Bad Practices ⚠️ #
+# Bad Practices #
 
-[![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
+<div align="center">
+<img width="460" src="assets/banner.png">
+</div>
+
+## 👋 Welcome to CISA's Bad Practices ##
+
+We’re using [GitHub
+discussions](https://github.com/cisagov/bad-practices/discussions) as a place to
+connect and engage in a critical conversations with other members in the
+community. We hope that you will:
+
+- Ask questions if something doesn't make sense.
+- Share  your thoughts on existing, and ideas for future, Bad Practice entries.
+- Engage with us and other community members on ideas and actions to eradicate
+  Bad Practices.
+- Welcome others and maintain an open-mind.
+
+---
+
+## Bad Practices ##
 
 As recent incidents have demonstrated, cyber attacks against critical
 infrastructure can have significant impacts on the critical functions of
@@ -42,6 +61,8 @@ practice does not indicate that CISA endorses such a practice or deems such a
 practice to present acceptable levels of risk.*
 
 ## Contributing ##
+
+[![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
 
 Join the [bad practices
 discussion](https://github.com/cisagov/bad-practices/discussions).  We welcome
