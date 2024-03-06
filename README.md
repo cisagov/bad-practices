@@ -3,7 +3,7 @@
 [![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
 
 <div align="center">
-<img width="460" src="assets/banner.png">
+<img alt="Banner" width="460" src="assets/banner.png">
 </div>
 
 We’re using [GitHub
