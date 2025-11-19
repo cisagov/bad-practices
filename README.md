@@ -1,6 +1,8 @@
 # 👋 Welcome to CISA's Bad Practices Catalog #
 
 [![GitHub Build Status](https://github.com/cisagov/bad-practices/workflows/build/badge.svg)](https://github.com/cisagov/bad-practices/actions)
+[![License](https://img.shields.io/github/license/cisagov/bad-practices)](https://spdx.org/licenses/)
+[![CodeQL](https://github.com/cisagov/bad-practices/workflows/CodeQL/badge.svg)](https://github.com/cisagov/bad-practices/actions/workflows/codeql-analysis.yml)
 
 <div align="center">
 <img alt="Banner" width="460" src="assets/banner.png">
