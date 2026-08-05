@@ -1,1 +1,3 @@
+# With setuptools 70.1 and later it is no longer necessary to install
+# wheel alongside setuptools.
 setuptools>=70.1
